@@ -29,7 +29,7 @@ Arkafoodel is an online food ordering website, which collaborates with various r
 
 ## Usage for development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/Ocraniawan/ArkafoodelWeb.git`
+2. Type `git clone https://github.com/ra5007/ArkafoodelWeb`
 3. Open the folder and type `npm install` for install dependencies
 4. Type `npm start` for run this app.
 
